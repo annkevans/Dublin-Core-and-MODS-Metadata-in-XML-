@@ -1,0 +1,76 @@
+///Below find a MODS record, encoded in XML,  for the following item https://youtu.be/PiF8HvNDV6w?si=tSBsESbzyLfL4gct///
+
+<?xml version="1.0" encoding="UTF-8"?>
+	<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.7" xsi:schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+		<titleInfo>
+			<title>What is a Subject Heading</title>
+		</titleInfo>
+		<titleInfo>
+			<title>Subject Headings</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart type="family">Bell,</namePart>
+			<namePart type="given">Jessica</namePart>	
+			<role>
+				<roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+			</role>
+			<affiliation authority="naf" authorityURI="http://id.loc.gov/authorities/names/">MGH Institute of Health Professions</affiliation>		
+		</name>
+		<typeOfResource>moving image</typeOfResource>
+		<genre authority="marcgt">videorecording</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">cau</placeTerm>
+			</place>
+			<publisher>YouTube</publisher>
+			<dateIssued>2014-09-29</dateIssued>
+		</originInfo>
+		<language>
+			<languageTerm authority="marclanguage" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<internetMediaType>video/mp4</internetMediaType>
+			<extent unit="minutes">4</extent>
+			<digitalOrigin>born digital</digitalOrigin>
+		</physicalDescription>
+		<abstract>The narrator introduces controlled vocabularies and how they relate to subject headings and successful library database searches. The narrator uses the example of the subject heading grandmother and how all the iterations of what a grandmother may be called will be found under the subject heading grandmother.</abstract>
+		<abstract>Learn why all of the library databases assign subject headings to the articles, etc they contain and learn why you may want to use them in your searches.</abstract>
+		<tableOfContents>00:00:07 Database record example – 00:00:20 Introduction to grandmother subject example for search headings – 00:00:25 Indexing term examples for a grandmother – 00:01:36 Examples on multilingual and monolingual variations for the term grandmother – 00:02:18 Introduction to controlled vocabularies – 00:02:59 Controlled vocabularies as they apply to database searches – 00:03:14 How to find subject headings – 00:03:51 Conclusion – 00:04:08 Grandmother Image Sources</tableOfContents>
+		<targetAudience authority="marctarget">specialized</targetAudience>
+		<note>This tutorial was created by the Janis P. Bellack Library and Study Commons at the MGH Institute of Health Professions.</note>
+		<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/">
+			<topic>Subject headings</topic>
+		</subject>
+		<subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects/">
+			<topic>Controlled vocabularies</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Bellack Library</title>
+			</titleInfo>
+			<location>
+				<url>https://www.youtube.com/user/IHPLibrary</url>
+		</location>
+		</relatedItem>
+		<relatedItem>
+			<titleInfo>
+				<title>Howto &amp; Style</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem>
+			<titleInfo>
+				<title>Learning</title>
+			</titleInfo>
+			<location>
+				<url>https://www.youtube.com/channel/UCtFRv9O2AHqOZjjynzrv-xg</url>
+			</location>
+		</relatedItem>		
+		<location>
+			<url>https://www.youtube.com/watch?v=PiF8HvNDV6w</url>
+		</location>
+		<accessCondition type="use and reproduction">Standard YouTube License</accessCondition>
+		<recordInfo>
+			<recordCreationDate>2020-07-12T00:29-05:00</recordCreationDate>
+			<recordChangeDate>2020-07-27T02:40-05:00</recordChangeDate>
+		</recordInfo>
+	</mods>
