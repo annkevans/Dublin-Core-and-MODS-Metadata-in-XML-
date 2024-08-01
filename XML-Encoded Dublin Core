@@ -1,0 +1,27 @@
+///Below find a DC record, encoded in XML,  for the following item https://youtu.be/PiF8HvNDV6w?si=tSBsESbzyLfL4gct///
+
+<?xml version="1.0" encoding="UTF-8"?>
+	<dc xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://purl.org/dc/elements/1.1" xsi:schemaLocation="http://dublincore.org/schemas/xmls/simpledc20021212.xsd">
+		<creator>Bell, Jessica</creator>
+		<creator>MGH Institute of Health Professions. Bellack Library</creator>
+		<date>2014-09-29</date>
+		<description>Learn why all of the library databases assign subject headings to the articles, etc they contain and learn why you may want to use them in your searches.</description>
+		<description>The narrator introduces controlled vocabularies and how they relate to subject headings and successful library database searches. The narrator uses the example of the subject heading grandmother and how all the iterations of what a grandmother may be called will be found under the subject heading grandmother.</description>
+		<description>00:00:07 Database record example – 00:00:20 Introduction to grandmother subject example for search headings – 00:00:25 Indexing term examples for a grandmother – 00:01:36 Examples on multilingual and monolingual variations for the term grandmother – 00:02:18 Introduction to controlled vocabularies – 00:02:59 Controlled vocabularies as they apply to database searches – 00:03:14 How to find subject headings – 00:03:51 Conclusion – 00:04:08 Grandmother Image Sources</description>
+		<format>00:04:12</format>
+		<format>video/mp4</format>
+		<format>852 x 480 pixels</format>
+		<identifier>https://library.mghihp.edu/cgi-bin/koha/pages.pl?p=tutorials</identifier>
+		<language>eng</language>
+		<publisher>https://www.youtube.com</publisher>
+		<relation>Bellack Library</relation>
+		<relation>https://www.youtube.com/user/IHPLibrary</relation>
+		<relation>Howto &amp; Style</relation>
+		<rights>Standard YouTube License</rights>
+		<subject>Subject headings</subject>
+		<subject>Controlled vocabularies</subject>
+		<title>What is a Subject Heading</title>
+		<title>Subject headings</title>
+		<type>Moving Image</type>
+		<type>video tutorial</type>
+	</dc>
